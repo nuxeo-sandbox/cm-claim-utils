@@ -1,8 +1,8 @@
 <!-- See documentation at http://doc.nuxeo.com/x/HgIz -->
 <package type="addon" name="cm-claim-demo-utils" version="@VERSION@">
-  <title>Cm claim demo utils</title>
+  <title>CM Claim Demo Utils</title>
   <description>
-    <p>Put here an HTML description of your Nuxeo Package.</p>
+    <p>Wrapper package for cm claim demo.</p>
   </description>
   <!-- <home-page>http://doc.nuxeo.com/</home-page> -->
   <vendor>Nuxeo</vendor>

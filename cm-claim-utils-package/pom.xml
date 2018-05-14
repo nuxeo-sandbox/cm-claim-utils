@@ -9,7 +9,7 @@
 
   <artifactId>cm-claim-utils-package</artifactId>
   <packaging>zip</packaging>
-  <name>Cm claim utils package - Cm claim demo utils</name>
+  <name>CM Claim Demo Utils</name>
 
   <dependencies>
     <!-- Base distribution(s) for the MP -->
@@ -24,14 +24,17 @@
     <dependency>
       <groupId>org.nuxeo.ai.rekognition</groupId>
       <artifactId>nuxeo-rekognition-core</artifactId>
+      <version>1.0-SNAPSHOT</version>
     </dependency>
     <dependency>
       <groupId>org.nuxeo.ai</groupId>
       <artifactId>nuxeo-pipes-core</artifactId>
+      <version>1.0-SNAPSHOT</version>
     </dependency>
     <dependency>
       <groupId>org.nuxeo.ai</groupId>
       <artifactId>nuxeo-ai-core</artifactId>
+      <version>1.0-SNAPSHOT</version>
     </dependency>
   </dependencies>
 
